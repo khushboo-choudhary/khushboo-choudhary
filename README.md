@@ -1,4 +1,4 @@
-<p><img align="center" height= "200px" src="https://external-preview.redd.it/TBKXp39Mgvo9-Jv8e710_u-l-wUFn2CC7oMi3R6M8QQ.jpg?auto=webp&s=454cb0c8f0637c924a8cdfed884bbd644b1713a4" alt="khushboo-choudhary" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67" alt="khushboo-choudhary" /></p>
 
 <h1 align="center">Hi 👋, I'm khushboo</h1>
 <h3 align="center">I am passionate Full Stack Developer who focuses on writing clean and user-friendly applications.</h3>
@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for work on **Full Stack Web Developer**
+- 🤝 I’m looking for work on **Full Stack Web Developer**                  <p><img align="right" height= "200px" src="https://external-preview.redd.it/TBKXp39Mgvo9-Jv8e710_u-l-wUFn2CC7oMi3R6M8QQ.jpg?auto=webp&s=454cb0c8f0637c924a8cdfed884bbd644b1713a4" alt="khushboo-choudhary" /></p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://khushboo-portfolio.netlify.app/)
 
 - 💬 Ask me about my coding Experience can see the [My GitHub Repositories](My GitHub Repositories)
 
