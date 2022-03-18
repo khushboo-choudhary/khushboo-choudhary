@@ -1,4 +1,4 @@
-<p><img align="center" src="https://external-preview.redd.it/TBKXp39Mgvo9-Jv8e710_u-l-wUFn2CC7oMi3R6M8QQ.jpg?auto=webp&s=454cb0c8f0637c924a8cdfed884bbd644b1713a4" alt="khushboo-choudhary" /></p>
+<p><img align="center" height= "200px" src="https://external-preview.redd.it/TBKXp39Mgvo9-Jv8e710_u-l-wUFn2CC7oMi3R6M8QQ.jpg?auto=webp&s=454cb0c8f0637c924a8cdfed884bbd644b1713a4" alt="khushboo-choudhary" /></p>
 
 <h1 align="center">Hi 👋, I'm khushboo</h1>
 <h3 align="center">I am passionate Full Stack Developer who focuses on writing clean and user-friendly applications.</h3>
