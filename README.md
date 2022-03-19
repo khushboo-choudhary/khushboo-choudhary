@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for work on **Full Stack Web Developer**                 
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://khushboo-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://khushboo-choudhary.netlify.app)
 
 - 💬 Ask me about my coding Experience can see the [My GitHub Repositories](https://github.com/khushboo-choudhary?tab=repositories)
 
