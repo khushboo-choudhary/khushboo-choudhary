@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kkhushboo321@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KSk6QIddez6oNdRGNWcqg_WKeTw0ERLo/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1VBnc79Z0KYxSgXFzMM0-G1QqsmRkR98l)
 
 - ⚡ Fun fact **I play games, listen music and watch the movies very often.**
 
